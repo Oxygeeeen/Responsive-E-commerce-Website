@@ -1,2 +1,2 @@
-# Responsive-E-commerce-website--Frontend---HTML-CSS-and-JAVASCRIPT
+# Responsive | E-commerce website
 Preview Live: 
